@@ -24,3 +24,4 @@ Schloss: lock
 Eltz: no direct translation found, could refer to Eltz castle a medieval castle nestled in the hills above the Moselle
 Danke: Thanks, Thank you
 Montag: Monday
+Freitag: Friday
